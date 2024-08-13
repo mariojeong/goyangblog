@@ -248,6 +248,27 @@ body {
 }
 
 
+.main-green-button1 a {
+  display: inline-block;
+  background-color: #33ccc5;
+  font-size: 25px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: capitalize;
+  padding: 12px 25px;
+  border-radius: 23px;
+  letter-spacing: 0.25px;
+  border-bottom: 2px solid #4771cb!important;
+  transition: all .3s;
+}
+
+.main-green-button1 a:hover {
+  background-color: #4771cb!important;
+  color: #fff!important;
+  border-bottom: 2px solid #33ccc5!important;
+}
+
+
 /* 
 ---------------------------------------------
 header
